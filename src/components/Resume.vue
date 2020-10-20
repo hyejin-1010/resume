@@ -1,6 +1,7 @@
 <template>
     <div>
-        Resume
+        <div class="name">김혜진</div>
+        <font-awesome-icon :icon="['fas', 'trash-alt']" />
     </div>
 </template>
 
